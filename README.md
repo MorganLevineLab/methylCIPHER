@@ -3,8 +3,6 @@
     -   [Installation](#installation)
     -   [Calculating Epigenetic Clocks and
         Predictors](#calculating-epigenetic-clocks-and-predictors)
-        -  [Running single “clock” calculations] (#Running-single-“clock”-calculations)
-        -  [Categories of Epigenetic Clocks] (#Categories-of-Epigenetic-clocks)
 -   [Citations!](#citations)
     -   [citeMyClocks()](#citemyclocks)
     -   [calcCoreClocks Function](#calccoreclocks-function)
