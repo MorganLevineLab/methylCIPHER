@@ -3,7 +3,10 @@
     -   [Installation](#installation)
     -   [Calculating Epigenetic Clocks and
         Predictors](#calculating-epigenetic-clocks-and-predictors)
-        -  [Running single “clock” calculations] (#running-single-clock-calculations)
+        - [Running single “clock” calculations](#running-single-clock-calculations)
+        - [Categories of Epigenetic Clocks](#categories-of-epigenetic-clocks)
+        - [Running Multiple Epigenetic Clocks Simultaneously](#running-multiple-epigenetic-clocks-simultaneously)
+        - [Missing beta values](#missing-beta-values)
 -   [Citations!](#citations)
     -   [citeMyClocks()](#citemyclocks)
     -   [calcCoreClocks Function](#calccoreclocks-function)
