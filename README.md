@@ -25,6 +25,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+On installation from Github, in R, install learnr and run learnr::run_tutorial(name = "instructions", package = "methylCIPHER") for an interactive tutorial.  
+
 The goal of methylCIPHER is to allow users to easily calculate their
 choice of CpG clocks using simple commands, from a single source. CpG
 epigenetic clocks are currently found in many places, and some require
