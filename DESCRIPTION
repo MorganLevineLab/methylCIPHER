@@ -26,4 +26,5 @@ Depends:
 Remotes: 
     danbelsky/DunedinPoAm38,
     MorganLevineLab/prcPhenoAge,
-    rstudio-education/gradethis
+    rstudio/gradethis
+    rstudio/learnr
