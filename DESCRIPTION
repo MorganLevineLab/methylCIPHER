@@ -17,7 +17,7 @@ Imports:
     DunedinPoAm38 (>= 0.1.0),
     prcPhenoAge (>= 0.1.0),
     learnr,
-    gradethis
+    gradethis (>= 0.2.10.9000)
 Suggests:
     devtools,
     testthat
