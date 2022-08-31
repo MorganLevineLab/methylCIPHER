@@ -15,7 +15,8 @@ Imports:
     dplyr,
     methods,
     DunedinPoAm38 (>= 0.1.0),
-    prcPhenoAge (>= 0.1.0)
+    prcPhenoAge (>= 0.1.0),
+    learnr
 Suggests:
     devtools,
     testthat
