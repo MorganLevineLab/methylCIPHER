@@ -16,7 +16,8 @@ Imports:
     methods,
     DunedinPoAm38 (>= 0.1.0),
     prcPhenoAge (>= 0.1.0),
-    learnr
+    learnr,
+    gradethis
 Suggests:
     devtools,
     testthat
