@@ -105,8 +105,8 @@ formatHorvathOnline <- function(DNAm, Pheno, writePath){
 
   #FIFTH, write the csv files for the user
 
-  write.table(DNAm,file = paste(writePath,"DNAm_Horvath_Online_Calculator_input.csv",sep=""), row.names=F, sep="," )
-  write.table(Pheno,file = paste(writePath,"Pheno_Horvath_Online_Calculator_input.csv",sep=""),row.names=F,sep="," )
+  write.table(DNAm,file = paste(writePath,"DNAm_Horvath_Online_Calculator_input.csv",sep="/"), row.names=F, sep="," )
+  write.table(Pheno,file = paste(writePath,"Pheno_Horvath_Online_Calculator_input.csv",sep="/"),row.names=F,sep="," )
 
   message(paste("The .csv files 'DNAm_Horvath_Online_Calculator_input' and 'Pheno_Horvath_Online_Calculator_input' have been generated.
           They can be found in", writePath))
